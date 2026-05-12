@@ -15,7 +15,7 @@ const socialLinks = [
   },
   {
     label: "X",
-    href: "https://x.com/SebastianV85305",
+    href: "https://x.com/SebVenegass",
     action: "Open",
   },
   {
