@@ -8,9 +8,9 @@ export const siteConfig = {
   url: siteUrl,
   email: "Sebastian@sebastienvenegas.com",
   locale: "en_US",
-  xHandle: "@SebastianV85305",
+  xHandle: "@SebVenegass",
   socials: {
-    x: "https://x.com/SebastianV85305",
+    x: "https://x.com/SebVenegass",
     github: "https://github.com/SebastianVenegas",
     linkedin: "https://www.linkedin.com/in/sebastian-venegass",
   },

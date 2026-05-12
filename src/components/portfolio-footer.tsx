@@ -17,10 +17,10 @@ export function PortfolioFooter({ className }: { className?: string }) {
           LinkedIn
         </a>
         <a
-          href="https://x.com/SebastianV85305"
+          href="https://x.com/SebVenegass"
           className="underline decoration-black/22 underline-offset-4 transition hover:text-black dark:decoration-white/22 dark:hover:text-white/82"
         >
-          X
+          Twitter/X
         </a>
         <a
           href="https://github.com/SebastianVenegas"

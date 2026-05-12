@@ -82,7 +82,7 @@ export default function Home() {
 
           <div className="flex w-fit flex-wrap items-center gap-3.5 text-[13px] font-normal tracking-[-0.005em] text-black/44 dark:text-white/46">
             <a
-              href="https://x.com/SebastianV85305"
+              href="https://x.com/SebVenegass"
               className="inline-flex items-center gap-1.5 transition hover:text-black dark:hover:text-white/82"
             >
               <svg
