@@ -1,6 +1,6 @@
-# Sebastian Venegas Portfolio
+# My Portfolio
 
-A personal portfolio for Sebastian Venegas, built to present selected engineering work, technical background, and contact information in a polished, responsive interface.
+I built this personal portfolio to showcase selected engineering projects, my technical background, and ways to get in contact with me through a polished, responsive experience.
 
 ## Tech Stack
 
@@ -8,17 +8,17 @@ A personal portfolio for Sebastian Venegas, built to present selected engineerin
 - React and TypeScript
 - Tailwind CSS
 - Framer Motion
-- next-themes for dark mode
+- `next-themes` for dark mode
 - Vercel-ready SEO routes for metadata, robots, sitemap, and Open Graph images
 
 ## Features
 
-- Responsive landing page with selected case studies
-- Dedicated project pages with image carousels and fullscreen viewing
+- Responsive landing page featuring selected case studies
+- Dedicated project pages with image carousels and fullscreen image viewing
 - Dark mode with persisted theme preference
 - Resume preview modal with direct PDF download
-- Contact page with social links and email CTA
-- SEO metadata, sitemap, robots config, and generated Open Graph image
+- Contact page with social links and email call-to-action
+- SEO metadata, sitemap, robots configuration, and generated Open Graph image support
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Run the local development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the site.
+Open [http://localhost:3000](http://localhost:3000) to view the site locally.
 
 ## Quality Checks
 
@@ -50,13 +50,13 @@ npm audit --audit-level=moderate
 ```text
 src/app/                 App Router pages, layouts, and SEO routes
 src/components/          Reusable UI, navigation, modal, and carousel components
-src/components/ui/       Small shared UI primitives
-src/lib/                 Site config, project data, and utilities
+src/components/ui/       Shared UI primitives
+src/lib/                 Site configuration, project data, and utilities
 public/                  Static images, favicons, resume PDF, and preview assets
 ```
 
 ## Deployment
 
-The site is designed for deployment on Vercel. Connect the repository, keep the default Next.js build settings, and configure the production domain to match `src/lib/site.ts`.
+I designed the site for deployment on Vercel. To deploy it, connect the repository, keep the default Next.js build settings, and configure the production domain to match `src/lib/site.ts`.
 
-Before publishing changes, run the quality checks above and confirm the resume PDF, image previews, and contact email are current.
+Before publishing updates, I run the quality checks above and confirm that the resume PDF, project previews, and contact information are all up to date.
