@@ -2,7 +2,7 @@ export const projects = [
   {
     slug: "sound-planet",
     title: "Sound Planet",
-    date: "Aug 2025 — Dec 2025",
+    date: "Jul 2025 — Dec 2025",
     image: "/Untitled%20design%20(1).svg",
     images: [
       "/Untitled%20design%20(1).svg",
