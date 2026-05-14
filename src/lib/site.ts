@@ -6,7 +6,7 @@ export const siteConfig = {
   description:
     "Full-stack engineer building modern product experiences, payment workflows, and scalable web applications with Next.js, TypeScript, and clean frontend architecture.",
   url: siteUrl,
-  email: "Sebastian@sebastienvenegas.com",
+  email: "sebastian@sebastianvenegas.com",
   locale: "en_US",
   xHandle: "@SebVenegass",
   socials: {
