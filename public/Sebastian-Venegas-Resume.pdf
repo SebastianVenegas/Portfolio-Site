@@ -1,181 +1,664 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 14 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://sebastianvenegas.dev)
->> /Border [ 0 0 0 ] /Rect [ 56 661.6 150.525 673 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ]
+/Contents 9 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 10 0 R
+/F1-0 11 0 R
+/F2 12 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/SebastianVenegas)
->> /Border [ 0 0 0 ] /Rect [ 159.132 661.6 188.696 673 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057sebastianvenegas\056dev)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 56 661.6 150.525 673 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/sebastian-venegass)
->> /Border [ 0 0 0 ] /Rect [ 197.303 661.6 233.213 673 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057SebastianVenegas)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 159.132 661.6 188.696 673 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://x.com/SebastianV85305)
->> /Border [ 0 0 0 ] /Rect [ 241.82 661.6 284.5795 673 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057linkedin\056com\057in\057sebastian\055venegass)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 197.303 661.6 233.213 673 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 13 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057x\056com\057SebastianV85305)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 241.82 661.6 284.5795 673 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5196
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 718 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 24 Tf 28 TL (Sebastian Venegas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 697 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Full-Stack Engineer | Product Systems | Frontend Architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 693 cm
+Q
+q
+1 0 0 1 56 659 cm
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf 0 0 0 rg (Greater Los Angeles Area) Tj  T* 0 0 1 rg (sebastianvenegas.dev) Tj 0 0 0 rg ( \177 ) Tj 0 0 1 rg (GitHub) Tj 0 0 0 rg ( \177 ) Tj 0 0 1 rg (LinkedIn) Tj 0 0 0 rg ( \177 ) Tj 0 0 1 rg (X / Twitter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 647 cm
+Q
+q
+1 0 0 1 56 645.3 cm
+q
+.7 w
+1 J
+.741176 .741176 .741176 RG
+n 0 0 m 500 0 l S
+Q
+Q
+q
+1 0 0 1 56 613.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 530.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 64.8 Tm /F1 10.2 Tf 15 TL (Product-focused full-stack engineer focused on modern web applications, payment systems, and AI-integrated) Tj T* (product experiences. Experienced working across frontend architecture, scalable web systems, responsive UI) Tj T* (development, and collaborative engineering workflows. Strong understanding of GitHub workflows, feature) Tj T* (branching, pull requests, Jira-based collaboration, modern frontend systems, and product-focused) Tj T* (development environments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 498.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (CORE COMPETENCIES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 460.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 460.3 cm
+q
+BT 1 0 0 1 0 19.8 Tm 15 TL /F2 10.2 Tf 0 0 0 rg (Frontend & Product Systems:) Tj /F1 10.2 Tf ( React, Next.js, TypeScript, Tailwind CSS, Framer Motion, responsive UI) Tj T* (systems, frontend architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 439.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 439.3 cm
+q
+BT 1 0 0 1 0 4.8 Tm 15 TL /F2 10.2 Tf 0 0 0 rg (Backend & Infrastructure:) Tj /F1 10.2 Tf ( Node.js, PostgreSQL, REST APIs, Supabase, Vercel, AWS fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 403.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 403.3 cm
+q
+BT 1 0 0 1 0 19.8 Tm 15 TL /F2 10.2 Tf 0 0 0 rg (Payments & Commerce:) Tj /F1 10.2 Tf ( Stripe, Stripe Connect, payment workflows, onboarding systems, scalable) Tj T* (checkout experiences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 367.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 367.3 cm
+q
+BT 1 0 0 1 0 19.8 Tm 15 TL /F2 10.2 Tf 0 0 0 rg (AI & Modern Tooling:) Tj /F1 10.2 Tf ( LLM integrations, Hugging Face, Cursor, GitHub, CodeRabbit, AI-assisted product) Tj T* (workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 331.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 331.3 cm
+q
+BT 1 0 0 1 0 19.8 Tm 15 TL /F2 10.2 Tf 0 0 0 rg (Design & Collaboration:) Tj /F1 10.2 Tf ( Figma, UI/UX systems, Jira workflows, pull requests, feature branching, product) Tj T* (architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 299.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 283.3 cm
+Q
+q
+1 0 0 1 56 262.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 10.2 Tf 15 TL (Way of Glory Payments \227 Full-Stack Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 243.3 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (Jan 2025 \227 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 207.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 207.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Contributed to payment platform architecture focused on Stripe Connect workflows and scalable product) Tj T* (systems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 171.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 171.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Worked across frontend systems, onboarding experiences, dashboard workflows, and payment-focused) Tj T* (web applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 150.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 150.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Focused on scalable frontend architecture, responsive UI systems, and modern engineering workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 142.3 cm
+Q
+q
+1 0 0 1 56 121.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 10.2 Tf 15 TL (Dynamic Federal Solutions \227 Frontend Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 102.3 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (Jun 2023 \227 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 81.3 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 81.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Contributed to frontend systems and responsive interface development across modern web workflows.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+56 122 400 13 re
+f*
+0 0 0 rg
+BT
+/F2-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 56 124 Tm
+(Dynamic Federal Solutions \227 Full\055Stack Engineer) Tj
+T*
+ET
+1 1 1 rg
+n
+56 243 200 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 56 245.2 Tm
+(Jan 2025 \227 Jul 2025) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 10 0 obj
 <<
-/PageMode /UseNone /Pages 12 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260511220337+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260511220337+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Count 2 /Kids [ 8 0 R 9 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1622
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau0C?#u`2'Re<2\5->sQ8*t>\o3V()5f<2KP[qoo?q)@Qs_l%5THiea7&EX6R2ddCD3b#2U21[II=W^%GLU)e:2*=nB$ESM$BCYp'*@KAUlprZ$l<:8kXAOHXLT:gl-#c[3jZZHq_^8iA4]FU4[>S.sbRVBNT@F_T3r1rh5:^,lA>B+(5*pXae77Ob_f/4NiASWAqN4_^+sSCF^US$]LM>0hMWIL5"ROfSRDtLCr?s\2"Yd7?jo_.%Fp'U.uC1=s$I/7T3X\%[%Zi6IYe5Y)H+Sa@RofEa]&Q-IB7;PXHACN/')t0(gZ"ED;-0@n:FXX^MFfCP#])9jcGZK/NG,R3q!Qa`FptoHdh7ZZG96(V63DF7qf6%G3`q_Vf4g1<_5XN,G\[!7io6LUY"W(IQZq*gEkOgFK.mgd8J%Y<H&'I^Dj^nJ"\13qj7250W3-jhGpUF?Al9b<;WN:Q/ecZs.j-Kdko^2r'6W\qZ2TAZ/^&1KJ,^3.iei;o)j3=$VAQpDafkS:sZCaF6cb"C]1%-4n;Ol*Z<%FTiCkSRp.R;Mrq1!>QYe%LlVrc@;p(a2NtW>Tf'b@0i@(!(`d`RLhNu-S(gh?ui`.L&hM>]i'*Bjt;dOeE;CA0T"$45!I1F0Y'!_<'$;i2a6,-9NHh<?&0B\N0(9O][&Nud.OWL#obFX6<,pEJhW.K\HiTFMGa>2Bc,gSYFZlg==*Sf#0rYT[!B)M8-[,T<0\;4n`o)NnpB#hj,5YU?c'b/rGi=AqtX];O7,QeYuU+bQZDX[M6?QR.@rG.3?MBgfJ\_AmBW)g&t12t<q3(u5:At'VLOi,p2B&s=<\2V;W8g/mc^jQo`L8lh?VPNKGWR@9g!pgTr!l_2,U3l(/&5aPJaK!@=G#;Pcf_H1UmS5c8fQMVFtS@Vnr:a16Gs)AK-3K04L2<'pNo5Dh[/%LQO*coki95jk-kI\<u9]'aI.X72$WCE2_ZIiM2*I`7@=3ReX92fP#ImNc+70`H5<0Z5=cR,JN!Vbc8HEV==U\4h9QQ`i(.hVQ'g!iG?Ji:f<P,.?hW=B[/DV??gjnZ$#PYHKL"!QeT4S^>TcWRjZ'dF7*Ph<Ue7FF3#7odZ2&[Xt(Za&-lVa`?OB;R0knP7Z0pF>'UB.p*^Q.*[7#QC^sqbHS'C]mGkFoCgV_KB,Z(K;oC3YR4@tYT"?:C'WRXXVZWo/V^`=_eB$((#K9_FK'uradg(LuqU&bt58d\Vo_r`a3'T"7b:3.]ENQ-f>0>t"Sphl8Ck0sW"4SRKX-pcd@LmapJ(JfV.OP)Ii/CoR>'^_Z9IO9*kkeek)l->R<)d5p`C4_2h'A'c[Nc3]ep7/Q'Hjm`*kE5[/*9cp6I`qR/B]j/\KD)?M)JUTNuD\O:d%k-"-:thQ&gr:`hqh#SXq\0j6Ae:I0!6,Qm1[!*h)\H/i8ST=(oI>K[8pYZ.RUNR:,u*jt%&Cok8J$RKLkR>]S:@MtRT\P64[&0"geEEAYcX&*<&o?N'Ro$]:WZb)iKm3<&Y`kjtC.XlmKQ@S?o35e.u;dn-Aa9C<cCdb=Qt-Ub3PU<_FYeA%rncJ_Fr>]<Jq:q="K)%&KgUPRR\j8m6OZa;CoDp[s9"g7h,ltuE3~>endstream
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 914
+/Contents 15 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 10 0 R
+/F1-0 16 0 R
+/F2 12 0 R
+/F2-0 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 3183
 >>
 stream
-Gau0B9lo#B&A@Zcp6]q?JfTK]0r9tVVF*m.di>k'HOXk/acYX\rd@kVirCM\aY^p)+aMb%\*pG06&/cInJS,&hg@C*=^]q@7pn>o#Q,YtoNP*CX0V*c^pSK!gcB!#.4jT/(g+1qlOs+0:?Il.Sq?tMr%H(`DTfBP]QeldjJ1Tb]G+d9m4rY4KK],[j<KD`NqFma&;VT?$R(puT+R/<@u_sI^80Z4YnT;hXqg$?CgG*X-==QW4@G$.X07WH8HKNsE`AKnN/%rfe%*D`e5$jCnUNqXgH3s@m3:*HGMeJ2`=Y@8NXl0P*5lP:Jm8maJqFCIJWq;$4AZun0r8&P(3<4=i^#t'Br($^UfoV[#(dJK9StM7oN>/h$h5)JOVqDn&\3!Xiqp@$`kL'df_ac(7F&eB_Dl:tgU7J7C>IQBZeuFM<SJJAESN<ggSPs:0'n)&C!J67r@4"h,*T'T$$OAWQ>(`eTNF(k[Qbn0UW?jcLZTOr%&hu;?K@OnWWf1B7*1!@b;Ef:dufaV[SCoa4JF_PWqfS,j_qM?AjtmhFOKuX:9&TV!\'@cN,9!0J[Bu$1K=Q:[H;d(]5^Y`ls_)7ARo>k:F-akh\jZ]j8l8M0Y3UrkC?Dir]`cFDK8a#;70_eI(@[&T$V:B=l:T/:r&8L9agr]g:MN<MY.f7e*E:+*T$\Ma;\C[hX,RAkhb`W'""LqpHs;Fj>2uC%&Vk+UmrGHM6LBH6&fD7Ob,QZVFG4\I"TOqE98jXs#f>[1T=isJTJWr@=Ho5K%"r$O7@1:m>Zn=HZ+9@UYEVd&SB't,hg479KR4ge-'%:i`1$&!f\I(>39$Z<Ahei:9=:;hnC,\Z`S)UJ0\S[$L'lsjdj(u+2b50Z?/8$c=[[BqCVm=gd::N8jn!MjPamr^-J@a#Ei;L<W~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56 716 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 716 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Worked within collaborative engineering environments using GitHub workflows, pull requests, and feature) Tj T* (branching.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 695 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 695 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Focused on scalable UI systems, maintainable frontend architecture, and product-focused development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 687 cm
+Q
+q
+1 0 0 1 56 666 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 10.2 Tf 15 TL (SoundPlanet \227 Full-Stack Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 647 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (Aug 2025 \227 Dec 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 626 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 626 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Contributed to modern event platform workflows, ticketing systems, and frontend architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 605 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 605 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Worked across payment integrations, authentication systems, and responsive product experiences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 584 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 584 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Focused on scalable frontend systems and thoughtful user interaction patterns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 552 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (CERTIFICATIONS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 529 cm
+BT /F1 12 Tf 14.4 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 74 529 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Harvard CS50P \227 Introduction to Programming with Python \(Harvard University / edX\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 497 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (ENGINEERING FOCUS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56 444 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (Focused on frontend architecture, scalable web systems, payment infrastructure, and modern product-focused) Tj T* (engineering workflows. Interested in AI-integrated systems, modern UI/UX experiences, and collaborative) Tj T* (software engineering environments.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+56 646 200 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.2 Tf
+11.04 TL
+ET
+BT
+1 0 0 1 56 648.9 Tm
+(Jul 2025 \227 Dec 2025) Tj
+T*
+ET
+1 1 1 rg
+n
+56 490 500 58 re
+f*
+0 0 0 rg
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 56 533 Tm
+<7f> Tj
+T*
+ET
+BT
+/F1-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 74 531.7 Tm
+(Stripe Professional Payments Developer \050Stripe\051) Tj
+T*
+ET
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 56 515 Tm
+<7f> Tj
+T*
+ET
+BT
+/F1-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 74 513.7 Tm
+(Harvard CS50P \227 Introduction to Programming with Python \050Harvard University \057 edX\051) Tj
+T*
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 56 493 Tm
+(ENGINEERING FOCUS) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 15
+0 18
 0000000000 65535 f 
-0000000073 00000 n 
-0000000114 00000 n 
-0000000221 00000 n 
-0000000333 00000 n 
-0000000498 00000 n 
-0000000675 00000 n 
-0000000859 00000 n 
-0000001030 00000 n 
-0000001261 00000 n 
-0000001456 00000 n 
-0000001526 00000 n 
-0000001810 00000 n 
-0000001876 00000 n 
-0000003590 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000442 00000 n 
+0000000619 00000 n 
+0000000811 00000 n 
+0000001016 00000 n 
+0000001202 00000 n 
+0000006450 00000 n 
+0000006558 00000 n 
+0000006666 00000 n 
+0000006779 00000 n 
+0000006892 00000 n 
+0000007143 00000 n 
+0000010379 00000 n 
+0000010487 00000 n 
 trailer
 <<
-/ID 
-[<dd0d5421f3d63617f1f9a21021c5f3c2><dd0d5421f3d63617f1f9a21021c5f3c2>]
-% ReportLab generated PDF document -- digest (http://www.reportlab.com)
-
-/Info 11 0 R
-/Root 10 0 R
-/Size 15
+/Size 18
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4595
-%%EOF
-
-11 0 obj
-<<
-/Title (Sebastian Venegas Resume)
-/Author (Sebastian Venegas)
-/Subject (Resume)
-/Creator (ReportLab PDF Library - www.reportlab.com)
-/Producer (ReportLab PDF Library - www.reportlab.com)
-/CreationDate (D:20260511220337+00'00')
-/ModDate (D:20260511222140+00'00')
-/Keywords ()
-/Trapped /False
->>
-endobj
-xref
-11 1
-0000005124 00000 n 
-trailer
-<<
-/Size 15
-/Root 10 0 R
-/Info 11 0 R
-/ID [<dd0d5421f3d63617f1f9a21021c5f3c2> <dd0d5421f3d63617f1f9a21021c5f3c2>]
-/Prev 4595
->>
-startxref
-5438
-%%EOF
-
-11 0 obj
-<<
-/Title (Sebastian Venegas Resume)
-/Author (Sebastian Venegas)
-/Subject (Resume)
-/Creator (Sebastian Venegas)
-/Producer (ReportLab PDF Library - www.reportlab.com)
-/CreationDate (D:20260511220337+00'00')
-/ModDate (D:20260511222216+00'00')
-/Keywords ()
-/Trapped /False
->>
-endobj
-xref
-11 1
-0000005625 00000 n 
-trailer
-<<
-/Size 15
-/Root 10 0 R
-/Info 11 0 R
-/ID [<dd0d5421f3d63617f1f9a21021c5f3c2> <dd0d5421f3d63617f1f9a21021c5f3c2>]
-/Prev 5438
->>
-startxref
-5915
+10600
 %%EOF
