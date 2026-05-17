@@ -25,7 +25,7 @@ const certifications = [
   {
     title: "Stripe Professional Payments Developer",
     description:
-      "Certified credential for integrating ecommerce payment solutions using Stripe APIs and built-in surfaces.",
+      "Professional certification for building payment integrations with Stripe APIs, payment flows, and built-in surfaces.",
     issuer: "Stripe",
     href: "https://stripecertifications.credential.net/a51344b2-a853-4c68-aaaf-94613aa28066#acc.J0FAmVhY",
     logo: {
