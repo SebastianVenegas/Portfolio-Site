@@ -14,11 +14,6 @@ const socialLinks = [
     action: "Open",
   },
   {
-    label: "X",
-    href: "https://x.com/SebVenegass",
-    action: "Open",
-  },
-  {
     label: "GitHub",
     href: "https://github.com/SebastianVenegas",
     action: "Open",
@@ -50,14 +45,6 @@ export const metadata: Metadata = {
         alt: "Sebastian Venegas portfolio preview",
       },
     ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Contact Sebastian Venegas",
-    description:
-      "Contact Sebastian Venegas for full-stack engineering, product engineering, and modern web application work.",
-    creator: siteConfig.xHandle,
-    images: ["/opengraph-image"],
   },
 };
 

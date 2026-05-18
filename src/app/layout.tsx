@@ -54,13 +54,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: "summary_large_image",
-    title: siteConfig.title,
-    description: siteConfig.description,
-    creator: siteConfig.xHandle,
-    images: ["/opengraph-image"],
-  },
   icons: {
     icon: [{ url: "/SV%20Fav%20White.svg?v=6", type: "image/svg+xml" }],
   },
@@ -78,11 +71,7 @@ export default function RootLayout({
     url: siteConfig.url,
     email: siteConfig.email,
     jobTitle: "Full-Stack Engineer",
-    sameAs: [
-      siteConfig.socials.x,
-      siteConfig.socials.github,
-      siteConfig.socials.linkedin,
-    ],
+    sameAs: [siteConfig.socials.github, siteConfig.socials.linkedin],
     knowsAbout: [
       "Full-stack engineering",
       "Next.js",

@@ -466,13 +466,6 @@ export async function generateMetadata({
         },
       ],
     },
-    twitter: {
-      card: "summary_large_image",
-      title: `${project.title} | Sebastian Venegas`,
-      description: project.description,
-      creator: siteConfig.xHandle,
-      images: ["/opengraph-image"],
-    },
   };
 }
 

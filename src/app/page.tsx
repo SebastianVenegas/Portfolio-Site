@@ -93,20 +93,6 @@ export default function Home() {
 
           <div className="flex w-fit flex-wrap items-center gap-3.5 text-[13px] font-normal tracking-[-0.005em] text-black/44 dark:text-white/46">
             <a
-              href="https://x.com/SebVenegass"
-              className="inline-flex items-center gap-1.5 transition hover:text-black dark:hover:text-white/82"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                aria-hidden="true"
-                className="size-[13px]"
-              >
-                <path d="M13.9 10.47 21.34 2h-1.76l-6.46 7.35L7.97 2H2.01l7.8 11.12L2.01 22h1.76l6.82-7.77L16.03 22h5.96l-8.09-11.53Zm-2.42 2.75-.79-1.11L4.41 3.3h2.72l5.08 7.13.79 1.11 6.58 9.23h-2.72l-5.38-7.55Z" />
-              </svg>
-              Twitter/X
-            </a>
-            <a
               href="https://github.com/SebastianVenegas"
               className="inline-flex items-center gap-1.5 transition hover:text-black dark:hover:text-white/82"
             >
